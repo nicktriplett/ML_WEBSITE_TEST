@@ -1,5 +1,5 @@
 baseURL: http://www.example.com
-title: johndoe
+title: nicholastriplett
 theme: hugo-coder
 languageCode: en
 defaultContentLanguage: en
@@ -9,7 +9,7 @@ pygmentsCodeFences: yes
 pygmentsCodeFencesGuessSyntax: yes
 enableEmoji: yes
 params:
-  author: John Doe
+  author: Nicholas Triplett
   avatarURL: images/avatar.jpg
   colorScheme: auto
   commit: https://github.com/luizdepra/hugo-coder/tree/
@@ -21,8 +21,8 @@ params:
   description: John Doe's personal website
   hideColorSchemeToggle: no
   info:
-    - Full Stack DevOps
-    - Magician
+    - Machine Learning Enthusiast
+    - Aspiring Business Analyst
   keywords: blog,developer,personal
   maxSeeAlsoItems: 5
   rtl: no
